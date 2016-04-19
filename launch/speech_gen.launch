@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="semio_rosbridge" type="bootstrap.bash" name="semio_rosbridge" output="screen" required="true" args="$(find semio_rosbridge) 'speech_gen'" />
+</launch>
