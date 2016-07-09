@@ -1,15 +1,12 @@
-<?xml version="1.0"?>
 <package>
   <name>semio_speech_ros</name>
   <version>0.1.0</version>
+
   <description>ROS package for Semio speech software</description>
 
   <maintainer email="support@semio.xyz">Semio Corp</maintainer>
-
   <license>GPLv3</license>
-
   <url type="website">https://semio.xyz</url>
-
   <author email="support@semio.xyz">Semio Corp</author>
 
   <buildtool_depend>catkin</buildtool_depend>
